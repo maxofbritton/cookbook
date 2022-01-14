@@ -18,25 +18,17 @@ tags: [Bread]
 ### Garlic Butter
 
 - 4 cloves garlic
-
 - 2 tablespoons (30g) unsalted butter
-
 - 2 teaspoons dried oregano
-
 - 1/2 teaspoon red pepper flakes
 
 ### Focaccia
 
 - 325 g or 400 g water
-
 - 4g instant yeast (0.15 ounce; about 1 teaspoon)
-
 - 500g all-purpose or bread flour
-
 - 10g kosher salt (1/2 ounce; about 1 tablespoon)
-
 - 60 grams (5 tablespoons) extra-virgin olive oil, divided
-
 - Coarse salt, for seasoning
 
 ## Methodology

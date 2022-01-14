@@ -16,17 +16,11 @@ tags:
 ### Fried Pork Cutlets
 
 - 2 boneless pork chops 3/4" / 2cm thick
-
 - Salt
-
 - 50g plain flour
-
 - 25g cornstarch
-
 - 2 eggs, beaten
-
-- 50g pnako bread crumbs
-
+- 50g panako bread crumbs
 - Peanut oil (or vegetable) for frying
 
 ## Methodology

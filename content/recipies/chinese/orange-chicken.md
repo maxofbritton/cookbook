@@ -12,19 +12,12 @@ tags:
 ### Basic Tempura Chicken
 
 - 3/4 cup cornstarch
-
 - 1 1/2 cup all-purpose flour
-
 - 1 egg
-
 - 1 cup + 2 tbsp water
-
 - 1/4 cup vodka
-
 - 2 tsp salt
-
 - 1 1/2 lb boneless and skinless chicken thighs
-
 - 72 oz peanut oil
 
 ### Basic Orange Sauce
@@ -32,29 +25,19 @@ tags:
 ### Oleo Saccharum
 
 - 6 Oranges
-
 - 1 cup sugar
 
 ### Orange Sauce
 
 - 1 tsp ginger
-
 - 2 garlic cloves, minced
-
 - 1/3 cup oleo saccarum liquid
-
 - 2 tbsp brown sugar
-
 - 1/2 tsp MSG
-
 - 1/4 cup soy suace
-
 - 2 tbsp shaoxing wine
-
 - 1 tbsp reserved orange peel, finely sliced
-
 - 1/4 cup freshly squeeze orange juice
-
 - 1 small bird's eye chili, seeds removed, finley sliced
 
 ### Chicken

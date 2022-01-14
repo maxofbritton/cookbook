@@ -9,13 +9,9 @@ tags:
 ## Ingredients
 
 - 525g cold water
-
 - 7g fresh yeast
-
 - 80g sourdough starter
-
 - 700g KA bread flour (12+% protein), Alternatively, subsititue 150g with artisanal flour.
-
 - 14g kosher or sea salt
 
 

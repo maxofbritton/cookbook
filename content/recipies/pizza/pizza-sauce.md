@@ -9,23 +9,14 @@ tags:
 ## Ingredients
 
 - 1 (28-ounce) can whole peeled tomatoes
-
 - 1 tablespoon extra-virgin olive oil
-
 - 1 tablespoon unsalted butter
-
 - 2 medium cloves garlic, grated on microplane grater (about 2 teaspoons)
-
 - 1 teaspoon dried oregano
-
 - Pinch red pepper flakes
-
 - Kosher salt
-
 - 2 (6-inch) sprigs fresh basil with leaves attached
-
 - 1 medium yellow onion, peeled and split in half
-
 - 1 teaspoon sugar
 
 ## Methodology

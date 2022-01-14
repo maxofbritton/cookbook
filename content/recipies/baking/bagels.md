@@ -16,21 +16,15 @@ tags: [Bread]
 ### Bagels
 
 - 6 g active dry yeast
-
 - 19 g granulated sugar
-
 - 300 ml warm water (± 60 ml)
-
 - 440 g bread flour (60g of kneading)
-
 - 6 g salt
-
 - 17g diastatic malt powder (Optional)
 
 ### Bath
 
 - Pot of water
-
 - Brown sugar
 
 ## Methodology

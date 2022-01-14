@@ -11,54 +11,34 @@ tags:
 
 ### Chicken
 
-- 1 1/2 lbs chken thighs
-
+- 1 1/2 lbs chicken thighs
 - 1 cup all purpose flour
-
 - 1 cup cornstarch
-
 - 1 tsp baking powder
-
 - 1 tsp salt
-
 - 3 Tbsp marinade
 
 ### Chicken Marinade
 
 - 2 egg whites
-
 - 3 tbsp dark soy sauce
-
 - 3 tbsp chinese cooking wine
-
 - 3 tbsp vodka
-
 - 1/4 tsp baking soda
-
 - 2 tbsp cornstarch
 
 ### Sauce
 
 - 4 tbsp dark soy sauce
-
 - 4 tbsp chinese cooking wine
-
 - 3 tbsp rice wine vinegar
-
 - 4 tbsp chicken stock
-
 - 1/4 cup sugar
-
 - 1 tsp roassted sesame seed oil
-
 - 1 tbsp cornstarch
-
 - 6 scallions
-
 - 4 garlic cloves
-
 - 2 inches of ginger
-
 - 6-12 arbol chiles
 
 ## Methodology

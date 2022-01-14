@@ -9,11 +9,8 @@ tags:
 ## Ingredients
 
 - 4 to 5 Russet Potatoes
-
 - Salt, to taste
-
 - 8g cornflour
-
 - Frying oil
 
 ## Methodology

@@ -9,15 +9,10 @@ tags:
 ## Ingredients
 
 - 153g 00 flour
-
 - 153g All-purpose flour
-
 - 200g water
-
 - 8g sea salt
-
 - 2g active dry yeast
-
 - 4g Olive Oil
 
 
