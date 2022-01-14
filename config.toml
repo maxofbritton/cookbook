@@ -1,0 +1,24 @@
+baseURL = 'https://maxofbritton.com/cookbook'
+languageCode = 'en-us'
+title = 'cookbook'
+theme = "archie"
+copyright = "© Maximilian Britton"
+
+[params]
+    mode="auto"
+
+# Main menu Items
+[[menu.main]]
+name = "Home"
+url = "https://maxofbritton.com"
+weight = 1
+
+[[menu.main]]
+name = "Recipies"
+url = "/recipies"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
