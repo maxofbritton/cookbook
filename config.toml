@@ -1,24 +1,40 @@
 baseURL = 'https://maxofbritton.com/cookbook'
 languageCode = 'en-us'
 title = 'cookbook'
-theme = "archie"
 copyright = "© Maximilian Britton"
+theme = "risotto"
 
 [params]
-    mode="auto"
 
-# Main menu Items
-[[menu.main]]
-name = "Home"
-url = "https://maxofbritton.com"
-weight = 1
+    [params.theme]
+    palette = "gooey"
+    mode = "dark-mode"
 
-[[menu.main]]
-name = "Recipies"
-url = "/recipies"
-weight = 2
+    # Sidebar: about/bio
+    [params.about]
+    title = "Making with Max"
+    description = "I sometimes cooks things."
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 3
+    # Sidebar: social links
+    # Available icon sets:
+    # * FontAwesome 5 <https://fontawesome.com/> ('fas fa-' or 'fab-fa' for brands)
+    # * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
+
+[menu]
+
+  [[menu.main]]
+    identifier = "recipies"
+    name = "recipies"
+    url = "/recipies/"
+    weight = 9
+
+  [[menu.main]]
+    identifier = "maxofbritton"
+    name = "maxofbritton"
+    url = "https://maxofbritton.com/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
