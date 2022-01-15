@@ -1,0 +1,17 @@
+{{ define "main" }}
+    <h1 id="{{ .Title | urlize }}">{{ .Title | markdownify }}</h2>
+
+    {{ .Content }}
+
+    <ul>
+        {{ range $key, $taxonomy := .Site.Taxonomies.tags }}
+        <h2>{{ $key }}</h2>
+        <ul>
+            {{ range $taxonomy.Pages }}
+            <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    </ul>
+
+{{ end }}
