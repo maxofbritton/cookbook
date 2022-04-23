@@ -6,32 +6,47 @@ tags:
     - Pizza
 ---
 
-## Ingredients
+## Prep: Polish
 
-- 153g 00 flour
-- 153g All-purpose flour
+### Ingredients
+
 - 200g water
-- 8g sea salt
-- 2g active dry yeast
-- 4g Olive Oil
+- 5g honey
+- 5g yeast
+- 200g 00 flour
 
+### Methodology
 
-## Methodology
+1. Mix water, yeast, and honey.
+2. Mix in flour and let sit for 15 mins.
+3. Close lid, sit for an hour.
+4. Sit in fridge for 16-24 hours.
 
-1. Combine water, yeast and olive oil in a small bowl. Leave for 5 minutes.
+## Dough Prep
 
-2. Combine flour and salt, and mix in water mixture.
+### Ingredients
 
-3. Knead the dough for 3 minutes.
+- Polish
+- 300g Manitoba flour (or bread flour)
+- 200g 00 flour
+- 20g salt
+- 300g water
+- Olive oil
 
-4. Rest the dough for 15 minutes.
+### Methodology
 
-5. Knead the dough for another 3 minutes.
+1. Mix ingredients
+2. Knead 10-15 minutes until dough has absorbed all the water. Should start out very wet. When the dough has no more chunks, use the slam technique to knead (pickup and slap it on countertop).
+3. Pat with olive oil on top, then let rest for 15 minutes.
+4. With oiled hands, turn the dough into a ball by using a knife to detach the dough from the counter. Then gently pick up the dough from the sides and fold the sides and front and back in. Rotate and repeat until you have a tight ball. Avoid stretching the dough at all.
+5. Touch of olive oil on top, then cover with a cloth and leave for 1 hour
+6. Make dough balls 250 grams each.
+7. Make into a ball, not breaking the skin on top.
+8. Rest for one hour (cover with plastic wrap)
 
-6. Cut the dough into balls and cover with a damp cloth.
+## Shaping the Pizza
 
-7. Let the dough rest and rise for 3 to 4 hours at room temperature. Alternatively for 8 to 24 hours in the refrigerator and remove 30 to 45 minutes before shaping.
+1. Gently lift balls using, spatchula, cover top with flour. Place on bowl of flower to cover bottom. Flip dough in bowl. Then place top UP on counter
+2. Shape the pizza by pressing from center to outside, moving the air to the crust. Flip and repeat. Then press one end of the dough with one hand and stretch the dough with the other. Press dough with one hand, flip other half other the hand down, the put your other hand under and stretch out, the place down.
 
-8. Stretchy and shape the dough to make pizza!
-
-[Source](https://cooking.nytimes.com/recipes/1016230-robertas-pizza-dough)
+Inspiration: https://www.youtube.com/watch?v=OjsCEJ8CWlg
