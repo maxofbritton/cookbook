@@ -4,7 +4,6 @@ description:
 date: 2021-06-10
 tags:
     - Chinese
-    - Chicken
 ---
 
 ## Ingredients

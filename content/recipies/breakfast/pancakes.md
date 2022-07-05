@@ -3,7 +3,6 @@ title: Pancakes
 description:
 date: 2022-04-23
 tags: [Breakfast]
-draft: true
 ---
 
 ## Ingredients
