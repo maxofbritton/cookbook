@@ -11,13 +11,13 @@ tags: [Bread]
 
 ## Ingredients
 
-- 1.5 cups cornmeal
-- 0.5 cups all-purpose flour
-- 1.5 tsp baking powder
-- 1 tsp salt
-- 0.5 cups sugar
-- 2 Eggs
-- 1.25 cups milk
+- 1.5 cups / 335 grams cornmeal
+- 0.5 cups / 88 grams all-purpose flour
+- 1.5 tsp / 9 grams baking powder
+- 1 tsp / 7 grams salt
+- 0.5 / 120 grams cups sugar
+- 2 Eggs / 95 grams
+- 1.25 cups milk / 380 grams
 - 55g Butter
 
 ## Methodology
