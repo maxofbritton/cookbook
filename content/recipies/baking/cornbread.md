@@ -11,20 +11,25 @@ tags: [Bread]
 
 ## Ingredients
 
-- 1.5 cups / 335 grams cornmeal
-- 0.5 cups / 88 grams all-purpose flour
-- 1.5 tsp / 9 grams baking powder
-- 1 tsp / 7 grams salt
-- 0.5 / 120 grams cups sugar
+- 335 grams cornmeal
+- 88 grams all-purpose flour
+- 9 grams baking powder
+- 7 grams salt
+
+- 120 grams cups sugar
 - 2 Eggs / 95 grams
-- 1.25 cups milk / 380 grams
 - 55g Butter
+
+- 380 grams milk
 
 ## Methodology
 
+0. Preheat the oven to 400 F (200 C). 
 
-1. Mix the cornmeal, flour, baking powder, salt, and sugar in a large bowl.
+1. Soften the butter. Combine with the sugar and egg until creamy.
 
-2. Combine beaten egg and milk into dry ingredients. Add in the softened butter. Mix until smooth.
+2. Mix the cornmeal, flour, baking powder, and salt in a large bowl.
 
-3. Pour mixture into a greased cake pan. Preheat the oven to 400 F (200 C). Bake for 20-23 minutes.
+3. Cut the butter mixture into the dry ingredients. Add the milk until the mixture is consistent.
+
+4. Pour mixture into a greased cake pan. Bake for 20-23 minutes.
