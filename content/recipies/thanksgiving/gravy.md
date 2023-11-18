@@ -11,7 +11,7 @@ tags: [Thanksgiving]
 
 * Bacon
 * Roasted onion
-* Roasted lemon
+* Roasted orange
 
 ### Fresh ingredients
 
