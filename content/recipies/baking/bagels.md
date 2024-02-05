@@ -7,10 +7,6 @@ tags: [Bread]
 
 # Bagels
 
-| Prep time     | Cook Time     | Additional Time   | Total Time    |
-|---------------|---------------|-------------------|---------------|
-| 20 minutes    | 20 minutes    | 1 hour 20 minutes | 2 hours       |
-
 ## Ingredients
 
 ### Bagels
@@ -29,31 +25,23 @@ tags: [Bread]
 
 ## Methodology
 
-1. In 120ml of the warm water, add the sugar and yeast and let sit for five minutes. Then stir the yeast and sugar until dissolved.
+1. Combine 300ml of warm water, sugar, and yeast. Let sit for five minutes, then stir the yeast and sugar until dissolved.
 
-2. Mix the flour salt, and malt powder in a large bowl. Add yeast and sugar mixture.
+2. Mix the flour, salt, and malt powder in a large bowl. Add yeast and sugar mixture.
 
-3. Pour 80ml of warm water to the flour. Mix and stir in the rest of the water (the 100ml that is remaining), as needed. Depending on where you live, you may need to add an additional couple tablespoons to about ¼ cup/60ml of water. You want a moist and firm dough after you have mixed it.
+3. Knead the dough for 10-15 minutes. Form the dough into a smooth, elastic ball.
 
-4. Knead the dough for 10 minutes until smooth and elastic.
+4. Proof the dough in a covered, lightly oiled bowl. Let rise in a warm place until the dough has doubled in size.
 
-5. Lightly brush a large bowl with oil and turn the dough to coat. Cover the bowl.
+5. Divide the dough into 8 pieces for large bagels. Shape each piece into a round, then press into the center of each dough ball to form a ring. Stretch the ring to about one third the diameter of the bagel.
 
-6. Optional: Cold ferment the dough in the fridge for 24-72 hours.
+6. Cover the shaped bagels with a damp kitchen towel and rest for 10 minutes. Preheat your oven to 425F. After 10 minutes, peform the poke test on the dough - poke the dough, if the indentation says the bagels are ready to bake. If the indentation springs back quickly, proof the bagels for a bit more time.
 
-7. Remove the dough from the fridge. Let rise in a warm place until the dough has doubled in size. Punch the dough down, and let it rest for another 10 minutes.
+7. Bring a large pot of water to a boil. Add brown sugar or malt powder and 1 tsp of baking soda to the water.
 
-8. Divide the dough into 8 pieces. Shape each piece into a round.
+8. Boil the bagels on each side for 2 minutes. Add toppings immediately after boiling. Transfer to a parchment-lined baking sheet.
 
-9. Press into the center of each dough ball to form a ring. Stretch the ring to about ⅓ the diameter of the bagel.
-
-10. Cover with a damp kitchen towel and rest for 10 minutes. Preheat your oven to 220ºC.
-
-11. Bring a large pot of water to a boil. Reduce the heat. Lower the bagels into the water. Boil on each side for 2 minutes.
-
-12. Add topings. Transfer to a parchment-lined baking sheet.
-
-13. Bake for 20 - 25 minutes, or until golden brown.
+9. Bake for 20 - 25 minutes, or until golden brown.
 
 
 Sources: [New York Style Bagels](https://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/), [https://www.bingingwithbabish.com/recipes/bagelsandwiches](https://www.bingingwithbabish.com/recipes/bagelsandwiches)
