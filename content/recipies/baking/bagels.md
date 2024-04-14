@@ -13,7 +13,8 @@ tags: [Bread]
 
 - 6 g active dry yeast
 - 19 g granulated sugar
-- 300 ml warm water (± 60 ml)
+- 20g vital wheat gluten    
+- 360 ml warm water
 - 440 g bread flour (60g of kneading)
 - 6 g salt
 - 17g diastatic malt powder (Optional)
