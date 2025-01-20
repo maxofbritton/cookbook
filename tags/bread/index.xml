@@ -1,26 +1,186 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bread on cookbook</title><link>https://maxofbritton.com/cookbook/tags/bread/</link><description>Recent content in Bread on cookbook</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© Maximilian Britton</copyright><lastBuildDate>Mon, 19 Feb 2024 12:00:00 +0000</lastBuildDate><atom:link href="https://maxofbritton.com/cookbook/tags/bread/index.xml" rel="self" type="application/rss+xml"/><item><title>Pita Bread</title><link>https://maxofbritton.com/cookbook/recipies/baking/pita-bread/</link><pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate><guid>https://maxofbritton.com/cookbook/recipies/baking/pita-bread/</guid><description>Pita Bread Ingredients 240ml warm water 7g yeast 5g salt 25g olive oil 345g all-purpose flour (70% hydration) Methodology Combine ingredients.
-Knead dough for one minute. Knead again for 2 minutes at a time with 10 minute rests, twice. Total knead time of 5 minutes.
-Proof dough 1 hour.
-Preheat over to 475F with a large baking tile on the bottom shelf. Divide dough into 8 balls. Rest for 10 minutes.</description></item><item><title>Pretzels</title><link>https://maxofbritton.com/cookbook/recipies/baking/soft-pretzels/</link><pubDate>Sun, 11 Feb 2024 12:00:00 +0000</pubDate><guid>https://maxofbritton.com/cookbook/recipies/baking/soft-pretzels/</guid><description>Pretzels Ingredients 350ml warm water 7g yeast 5g salt 12g brown sugar or granulated sugar 12g melted butter 500g all-purpose flour (70% hydration) Methodology Combine ingredients.
-Knead dough.
-Proof dough 2 hours.
-Shape dough into pretzels or 30g balls.
-Boil in a baking soda path, 20 seconds per side.
-Add a butter or egg wash. Sprinkle flakey salt over top.
-Bake in a 400 degree oven for 15 minutes.</description></item><item><title>Soft Bread Rolls</title><link>https://maxofbritton.com/cookbook/recipies/baking/soft-bread-rolls/</link><pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate><guid>https://maxofbritton.com/cookbook/recipies/baking/soft-bread-rolls/</guid><description>Prep time Cook Time Additional Time Total Time 25 minutes 10 minutes 3 Hours 3 Hours 35 Minutes Ingredients 160 ml warm water 6 g instant yeast 300 g flour 6 g coarse salt 50 g sugar 56 g softened butter 1 whole egg, beaten Methodology Warm milk to 100 F/38 C, add the instant yeast and stir together. Let activate for 5 minutes.
-Mix the flour, salt, and sugar in a large bowl.</description></item><item><title>Cornbread</title><link>https://maxofbritton.com/cookbook/recipies/baking/cornbread/</link><pubDate>Mon, 08 Nov 2021 09:00:00 +0000</pubDate><guid>https://maxofbritton.com/cookbook/recipies/baking/cornbread/</guid><description>Prep time Cook Time Additional Time Total Time 20 minutes 20 minutes None 40 Minutes Ingredients 335 grams cornmeal
-88 grams all-purpose flour
-9 grams baking powder
-7 grams salt
-120 grams cups sugar
-2 Eggs / 95 grams
-55g Butter
-380 grams milk
-Methodology Preheat the oven to 400 F (200 C).
-Soften the butter. Combine with the sugar and egg until creamy.
-Mix the cornmeal, flour, baking powder, and salt in a large bowl.</description></item><item><title>Focaccia</title><link>https://maxofbritton.com/cookbook/recipies/baking/focaccia/</link><pubDate>Tue, 25 May 2021 18:00:00 +0000</pubDate><guid>https://maxofbritton.com/cookbook/recipies/baking/focaccia/</guid><description>Ingredients 400 grams bread flour 4 grams instant yeast 7 grams kosher salt 400 grams water - warm (80F) 20 grams extra-virgin olive oil Methodology Combine flour, salt, and yeast in large bowl.
-Add water and olive oil. Mix for 2 minutes.
-Proof mixture in fridge for 24 hours, or at room temperature for 1 hour.
-Remove dough from refrigerator and let sit at room temperature for 10 minutes.
-Spread the dough onto the baking tray.</description></item><item><title>Bagels</title><link>https://maxofbritton.com/cookbook/recipies/baking/bagels/</link><pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate><guid>https://maxofbritton.com/cookbook/recipies/baking/bagels/</guid><description>Bagels Ingredients Bagels 6 g active dry yeast 19 g granulated sugar 20g vital wheat gluten 360 ml warm water 440 g bread flour (60g of kneading) 6 g salt 17g diastatic malt powder (Optional) Bath Pot of water Brown sugar Methodology Combine 300ml of warm water, sugar, and yeast. Let sit for five minutes, then stir the yeast and sugar until dissolved.
-Mix the flour, salt, and malt powder in a large bowl.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bread on cookbook</title><link>https://maxofbritton.com/cookbook/tags/bread/</link><description>Recent content in Bread on cookbook</description><generator>Hugo</generator><language>en-us</language><copyright>© Maximilian Britton</copyright><lastBuildDate>Mon, 19 Feb 2024 12:00:00 +0000</lastBuildDate><atom:link href="https://maxofbritton.com/cookbook/tags/bread/index.xml" rel="self" type="application/rss+xml"/><item><title>Pita Bread</title><link>https://maxofbritton.com/cookbook/recipies/baking/pita-bread/</link><pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate><guid>https://maxofbritton.com/cookbook/recipies/baking/pita-bread/</guid><description>&lt;h1 id="pita-bread">Pita Bread&lt;/h1>
+&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;ul>
+&lt;li>240ml warm water&lt;/li>
+&lt;li>7g yeast&lt;/li>
+&lt;li>5g salt&lt;/li>
+&lt;li>25g olive oil&lt;/li>
+&lt;li>345g all-purpose flour (70% hydration)&lt;/li>
+&lt;/ul>
+&lt;h2 id="methodology">Methodology&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Combine ingredients.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Knead dough for one minute. Knead again for 2 minutes at a time with 10 minute rests, twice. Total knead time of 5 minutes.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Proof dough 1 hour.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Preheat over to 475F with a large baking tile on the bottom shelf. Divide dough into 8 balls. Rest for 10 minutes.&lt;/p></description></item><item><title>Pretzels</title><link>https://maxofbritton.com/cookbook/recipies/baking/soft-pretzels/</link><pubDate>Sun, 11 Feb 2024 12:00:00 +0000</pubDate><guid>https://maxofbritton.com/cookbook/recipies/baking/soft-pretzels/</guid><description>&lt;h1 id="pretzels">Pretzels&lt;/h1>
+&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;ul>
+&lt;li>350ml warm water&lt;/li>
+&lt;li>7g yeast&lt;/li>
+&lt;li>5g salt&lt;/li>
+&lt;li>12g brown sugar or granulated sugar&lt;/li>
+&lt;li>12g melted butter&lt;/li>
+&lt;li>500g all-purpose flour (70% hydration)&lt;/li>
+&lt;/ul>
+&lt;h2 id="methodology">Methodology&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Combine ingredients.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Knead dough.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Proof dough 2 hours.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shape dough into pretzels or 30g balls.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Boil in a baking soda path, 20 seconds per side.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Add a butter or egg wash. Sprinkle flakey salt over top.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bake in a 400 degree oven for 15 minutes.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Soft Bread Rolls</title><link>https://maxofbritton.com/cookbook/recipies/baking/soft-bread-rolls/</link><pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate><guid>https://maxofbritton.com/cookbook/recipies/baking/soft-bread-rolls/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Prep time&lt;/th>
+ &lt;th>Cook Time&lt;/th>
+ &lt;th>Additional Time&lt;/th>
+ &lt;th>Total Time&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>25 minutes&lt;/td>
+ &lt;td>10 minutes&lt;/td>
+ &lt;td>3 Hours&lt;/td>
+ &lt;td>3 Hours 35 Minutes&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;ul>
+&lt;li>160 ml warm water&lt;/li>
+&lt;li>6 g instant yeast&lt;/li>
+&lt;li>300 g flour&lt;/li>
+&lt;li>6 g coarse salt&lt;/li>
+&lt;li>50 g sugar&lt;/li>
+&lt;li>56 g softened butter&lt;/li>
+&lt;li>1 whole egg, beaten&lt;/li>
+&lt;/ul>
+&lt;h2 id="methodology">Methodology&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Warm milk to 100 F/38 C, add the instant yeast and stir together. Let activate for 5 minutes.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mix the flour, salt, and sugar in a large bowl.&lt;/p></description></item><item><title>Cornbread</title><link>https://maxofbritton.com/cookbook/recipies/baking/cornbread/</link><pubDate>Mon, 08 Nov 2021 09:00:00 +0000</pubDate><guid>https://maxofbritton.com/cookbook/recipies/baking/cornbread/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Prep time&lt;/th>
+ &lt;th>Cook Time&lt;/th>
+ &lt;th>Additional Time&lt;/th>
+ &lt;th>Total Time&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>20 minutes&lt;/td>
+ &lt;td>20 minutes&lt;/td>
+ &lt;td>None&lt;/td>
+ &lt;td>40 Minutes&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;p>Part A&lt;/p>
+&lt;ul>
+&lt;li>335 grams cornmeal&lt;/li>
+&lt;li>88 grams all-purpose flour&lt;/li>
+&lt;li>9 grams baking powder&lt;/li>
+&lt;li>5 grams baking soda&lt;/li>
+&lt;li>7 grams salt&lt;/li>
+&lt;/ul>
+&lt;p>Part B&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>120 grams sugar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>2 Eggs / 95 grams&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>55g Butter&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>380 grams milk&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="methodology">Methodology&lt;/h2>
+&lt;ol start="0">
+&lt;li>
+&lt;p>Preheat the oven to 400 F (200 C).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Soften the butter. Combine with the sugar and egg until creamy.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mix the cornmeal, flour, baking powder, and salt in a large bowl.&lt;/p></description></item><item><title>Focaccia</title><link>https://maxofbritton.com/cookbook/recipies/baking/focaccia/</link><pubDate>Tue, 25 May 2021 18:00:00 +0000</pubDate><guid>https://maxofbritton.com/cookbook/recipies/baking/focaccia/</guid><description>&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;ul>
+&lt;li>400 grams bread flour&lt;/li>
+&lt;li>4 grams instant yeast&lt;/li>
+&lt;li>7 grams kosher salt&lt;/li>
+&lt;li>400 grams water - warm (80F)&lt;/li>
+&lt;li>20 grams extra-virgin olive oil&lt;/li>
+&lt;/ul>
+&lt;h2 id="methodology">Methodology&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Combine flour, salt, and yeast in large bowl.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Add water and olive oil. Mix for 2 minutes.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Proof mixture in fridge for 24 hours, or at room temperature for 1 hour.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove dough from refrigerator and let sit at room temperature for 10 minutes.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Spread the dough onto the baking tray. Let proof at room temperature for 1 hour.&lt;/p></description></item><item><title>Bagels</title><link>https://maxofbritton.com/cookbook/recipies/baking/bagels/</link><pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate><guid>https://maxofbritton.com/cookbook/recipies/baking/bagels/</guid><description>&lt;h1 id="bagels">Bagels&lt;/h1>
+&lt;h2 id="ingredients">Ingredients&lt;/h2>
+&lt;h3 id="bagels-1">Bagels&lt;/h3>
+&lt;ul>
+&lt;li>6 g active dry yeast&lt;/li>
+&lt;li>19 g granulated sugar&lt;/li>
+&lt;li>20g vital wheat gluten&lt;/li>
+&lt;li>360 ml warm water&lt;/li>
+&lt;li>440 g bread flour (60g of kneading)&lt;/li>
+&lt;li>6 g salt&lt;/li>
+&lt;li>17g diastatic malt powder (Optional)&lt;/li>
+&lt;/ul>
+&lt;h3 id="bath">Bath&lt;/h3>
+&lt;ul>
+&lt;li>Pot of water&lt;/li>
+&lt;li>Brown sugar&lt;/li>
+&lt;/ul>
+&lt;h2 id="methodology">Methodology&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Combine 300ml of warm water, sugar, and yeast. Let sit for five minutes, then stir the yeast and sugar until dissolved.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mix the flour, salt, and malt powder in a large bowl. Add yeast and sugar mixture.&lt;/p></description></item></channel></rss>
