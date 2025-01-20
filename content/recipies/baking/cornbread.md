@@ -11,12 +11,15 @@ tags: [Bread]
 
 ## Ingredients
 
+Part A
 - 335 grams cornmeal
 - 88 grams all-purpose flour
 - 9 grams baking powder
+- 5 grams baking soda
 - 7 grams salt
 
-- 120 grams cups sugar
+Part B
+- 120 grams sugar
 - 2 Eggs / 95 grams
 - 55g Butter
 
